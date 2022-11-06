@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Lucas Ribeiro, estudante de Programação Full Stack na Recode Pro e no Senai de São Paulo! 😎
 
-📗 Fullstack Developer - RecodePro 2021.<br>
+📗 Fullstack Developer - RecodePro 2022.<br>
 🖥️ Tenho conhecimento em HTML5/CSS, JavaScript, TypeScript, ReactJS, React Native, SQLserver, MySQL, MongoDB.<br>
 :wink: Softskills que se destacam: Comunicação, trabalho em equipe, curiosidade, foco e determinação.<br>
 
