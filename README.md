@@ -1,4 +1,4 @@
-## Olá, Eu sou o Lucas Ribeiro, estudante de Programação Full Stack! 😎
+## Olá, Eu sou o Lucas Ribeiro, estudante de Programação Full Stack na Recode Pro e no Senai de São Paulo! 😎
 
 
 <div align="center"> 
