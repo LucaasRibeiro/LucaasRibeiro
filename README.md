@@ -1,6 +1,6 @@
 <h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h2> Meu nome é Lucas RIbeiro, mas gosto que me chamem de Ribeiro!</h2>
-## Sou estudante de Programação Full Stack na Recode Pro e no Senai de São Paulo! 😎
+<h2> Sou estudante de Programação Full Stack na Recode Pro e no Senai de São Paulo! 😎</h2>
 
 📗 Fullstack Developer - RecodePro 2022.<br>
 🖥️ Tenho conhecimento em HTML5/CSS, JavaScript, TypeScript, ReactJS, React Native, SQLserver, MySQL, MongoDB.<br>
