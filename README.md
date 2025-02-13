@@ -1,9 +1,12 @@
 <h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h2> Meu nome é Lucas Ribeiro, mas gosto que me chamem de Ribeiro!</h2>
-<h2> Sou estudante de Programação Full Stack na Recode Pro e no Senai de São Paulo! 😎</h2>
+<h1> Meu nome é Lucas Ribeiro, mas gosto que me chamem só Ribeiro!</h1>
+<h2> Faço faculdade de Ciências de Dados na Estacio - 3° Periodo</h2>
+<h2> E faço Engenharia de Software na Universidade Catolica de Brasilia (UCB) - 1° Periodo</h2>
+<h2> Formado em Programação Full Stack na Recode Pro e no Senai de São Paulo! 😎</h2>
+<h2>Conhecimentos também em Analise de Dados e Cientista de Dados</h2>
 
 📗 Fullstack Developer - RecodePro 2022.<br>
-🖥️ Tenho conhecimento em HTML5/CSS, JavaScript, TypeScript, ReactJS, React Native, SQLserver, MySQL.<br>
+🖥️ Tenho conhecimento em HTML5/CSS, JavaScript, Python, Java, R,TypeScript, ReactJS, React Native, SQLserver, MySQL.<br>
 :wink: Softskills que se destacam: Comunicação, trabalho em equipe, curiosidade, foco e determinação.<br>
 
 
