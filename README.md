@@ -1,5 +1,5 @@
 <h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h1> Meu nome é Lucas Ribeiro, mas gosto que me chamem só Ribeiro!</h1>
+<h1> Meu nome é Lucas Ribeiro, mas gosto que me chamem só de Ribeiro!</h1>
 <h2> Faço faculdade de Ciências de Dados na Estacio - 3° Periodo</h2>
 <h2> E faço Engenharia de Software na Universidade Catolica de Brasilia (UCB) - 1° Periodo</h2>
 <h2> Formado em Programação Full Stack na Recode Pro e no Senai de São Paulo! 😎</h2>
