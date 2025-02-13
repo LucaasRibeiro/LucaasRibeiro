@@ -6,7 +6,7 @@
 <h2>Conhecimentos também em Analise de Dados e Cientista de Dados</h2>
 
 📗 Fullstack Developer - RecodePro 2022.<br>
-🖥️ Tenho conhecimento em HTML5/CSS, JavaScript, Python, Java, R,TypeScript, ReactJS, React Native, SQLserver, MySQL.<br>
+🖥️ Tenho conhecimentos em HTML5/CSS, JavaScript, Python, Java, R ,TypeScript, ReactJS, React Native, SQLserver, MySQL.<br>
 :wink: Softskills que se destacam: Comunicação, trabalho em equipe, curiosidade, foco e determinação.<br>
 
 
