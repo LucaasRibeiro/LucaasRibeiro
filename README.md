@@ -12,7 +12,7 @@ Sou um profissional de tecnologia com formação em desenvolvimento full-stack, 
 
 - **AWS Certified Cloud Practitioner**
   <br>
-  (Cole o link ou o código do badge aqui)](https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/linked_in_profile)
+  (https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/linked_in_profile)
 
 - **AWS re/Start Graduate**
   <br>
