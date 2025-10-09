@@ -7,10 +7,17 @@ Sou um profissional de tecnologia com formação em desenvolvimento full-stack, 
 
 ---
 
-## 🎖️ Badges & Certificações
+<h2 align="center">🏆 Badges & Conquistas</h2>
 
-[![AWS Solutions Architect](https://images.credly.com/size/110x110/images/8e8ef5a7-02a4-4c7b-8a9e-37998e9e41e3/image.png)](https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/public_url)
-[![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/5e3b31d8-5f5b-4f87-ae41-07a3a5110d2a/image.png)](https://www.credly.com/earner/earned/badge/94267d1b-5272-4e61-9a4c-08f0f33130e3)
+<p align="center">
+  <a href="https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/public_url">
+    <img src="https://images.credly.com/size/140x140/images/8e8ef5a7-02a4-4c7b-8a9e-37998e9e41e3/image.png" alt="AWS Solutions Architect Associate">
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/94267d1b-5272-4e61-9a4c-08f0f33130e3">
+    <img src="https://images.credly.com/size/140x140/images/5e3b31d8-5f5b-4f87-ae41-07a3a5110d2a/image.png" alt="AWS Cloud Practitioner">
+  </a>
+</p>
+
 ---
 
 ### 📚 Formação Acadêmica e Profissional
