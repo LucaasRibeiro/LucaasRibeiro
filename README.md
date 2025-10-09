@@ -8,22 +8,15 @@ Sou um profissional de tecnologia com formação em desenvolvimento full-stack, 
 ---
 
 
-<h2 align="center">🏆 Badges & Conquistas</h2>
+## Minhas Certificações 🎓
 
-<p align="center">
-  <a href="https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/public_url" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/8e8ef5a7-02a4-4c7b-8a9e-37998e9e41e3/image.png" alt="AWS Solutions Architect Associate" width="120" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.credly.com/earner/earned/badge/94267d1b-5272-4e61-9a4c-08f0f33130e3" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/5e3b31d8-5f5b-4f87-ae41-07a3a5110d2a/image.png" alt="AWS Cloud Practitioner" width="120" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.credly.com/badges" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/1cc7cf49-54b3-4b5b-9dc8-4ec1d4a1f3cf/image.png" alt="CertiProf Scrum Foundation" width="120" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.credly.com/badges" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/56f4fa73-dad5-4cc4-b3e5-5eae1d8a3f6e/image.png" alt="CertiProf Design Sprint" width="120"/>
-  </a>
-</p>
+- **AWS Certified Cloud Practitioner**
+  <br>
+  (Cole o link ou o código do badge aqui)](https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/linked_in_profile)
+
+- **AWS re/Start Graduate**
+  <br>
+  (https://www.credly.com/earner/earned/badge/94267d1b-5272-4e61-9a4c-08f0f33130e3)
 
 ---
 
