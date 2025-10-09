@@ -7,16 +7,10 @@ Sou um profissional de tecnologia com formação em desenvolvimento full-stack, 
 
 ---
 
-### 🏅 Minhas Certificações
+## 🎖️ Badges & Certificações
 
-<div style="display: flex; gap: 20px;">
-  <a href="https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/linked_in_profile">
-    <img src="https://images.credly.com/size/200x200/images/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/AWS-Cloud-Practitioner-2024-Color.png" alt="AWS Certified Cloud Practitioner" width="150" height="150"/>
-  </a>
-  <a href="https://www.credly.com/earner/earned/badge/94267d1b-5272-4e61-9a4c-08f0f33130e3">
-    <img src="https://images.credly.com/size/200x200/images/94267d1b-5272-4e61-9a4c-08f0f33130e3/azure-fundamentals-associate-badge-e2.png" alt="Microsoft Certified: Azure Fundamentals" width="150" height="150"/>
-  </a>
-</div>
+[![AWS Solutions Architect](https://images.credly.com/size/110x110/images/8e8ef5a7-02a4-4c7b-8a9e-37998e9e41e3/image.png)](https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/public_url)
+[![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/5e3b31d8-5f5b-4f87-ae41-07a3a5110d2a/image.png)](https://www.credly.com/earner/earned/badge/94267d1b-5272-4e61-9a4c-08f0f33130e3)
 ---
 
 ### 📚 Formação Acadêmica e Profissional
