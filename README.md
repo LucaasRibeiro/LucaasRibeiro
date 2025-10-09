@@ -4,6 +4,18 @@
 
 Sou um profissional de tecnologia com formação em desenvolvimento full-stack, aprofundando meus estudos em **Ciências de Dados** e **Engenharia de Software**. Sou apaixonado por resolver problemas e criar soluções eficientes, unindo meus conhecimentos em programação e análise de dados.
 
+
+---
+
+## Minhas Certificações 🎓
+
+- **AWS Certified Cloud Practitioner**
+  <br>
+  https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/linked_in_profile
+
+- **AWS re/Start Gradute**
+  <br>
+  https://www.credly.com/earner/earned/badge/94267d1b-5272-4e61-9a4c-08f0f33130e3
 ---
 
 ### 📚 Formação Acadêmica e Profissional
