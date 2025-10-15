@@ -14,17 +14,8 @@ Sou um profissional de tecnologia com formação em desenvolvimento full-stack, 
   <a href="https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="100"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.credly.com/badges/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="100"/>
-  </a>
-</p> 
-
-<p align="center">
-  <a href="https://www.credly.com/badges/94267d1b-5272-4e61-9a4c-08f0f33130e3/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/fae42e2c-553d-4123-9dbf-ccb8a6e0eb5c/AWS_Certified_Cloud_Practitioner_badge.png" alt="AWS Certified Cloud Practitioner" height="100"/>
   </a>
 </p>
 ---
